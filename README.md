@@ -1,2 +1,2 @@
 # projeto-array-vickieww
-projeto-array-vickieww created by GitHub Classroom
+Utiliza o método de array no JavaScript para montarum jogo de zadrez.
